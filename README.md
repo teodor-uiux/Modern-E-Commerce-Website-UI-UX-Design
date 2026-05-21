@@ -26,7 +26,7 @@ Designed a modern e-commerce website concept focused on improving product presen
 ![Hero Section](hero-section.jpg)
 
 ### Product Section
-![Product Section](product section.jpg)
+![Product Section](product-section.jpg)
 
 ### Sitemap
 ![Sitemap](sitemap-design.jpg)
